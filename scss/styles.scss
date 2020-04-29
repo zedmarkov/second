@@ -1,0 +1,10 @@
+$color-font: black;
+
+body {
+  background: pink;
+  .test {
+    h1 {
+      color: $color-font;
+    }
+  }
+}
